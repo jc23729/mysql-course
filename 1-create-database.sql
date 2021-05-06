@@ -1,5 +1,5 @@
 CREATE DATABASE trendyStore;
-CREATE DATABASE toyStore;
+DROP DATABASE toyStore;
 
 -- 1.	Make sure you are on psql -U postgres
 -- 2.Go back into command line and do CREATE DATABASE;
