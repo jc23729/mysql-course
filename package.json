@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jc23729/mysql-course/issues"
   },
-  "homepage": "https://github.com/jc23729/mysql-course#readme"
+  "homepage": "https://github.com/jc23729/mysql-course#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
 }
